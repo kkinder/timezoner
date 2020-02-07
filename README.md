@@ -2,6 +2,8 @@
 
 Timezone lookup extension for [Ulauncher](https://ulauncher.io/).
 
+![Demo](demo.gif)
+
 ## Credits
 
 ### Icon
