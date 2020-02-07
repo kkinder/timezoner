@@ -12,7 +12,7 @@
       "type": "keyword",
       "name": "Timezoner",
       "description": "Keyword to Trigger Timezoner",
-      "default_value": "gl"
+      "default_value": "tz"
     },
     {
       "id": "globalist_format",
